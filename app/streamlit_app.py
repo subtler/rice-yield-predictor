@@ -1,6 +1,7 @@
 import streamlit as st
 import joblib
 import numpy as np
+import pandas as pd
 # Load dataset
 @st.cache_data
 def load_data():
