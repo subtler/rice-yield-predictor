@@ -1,0 +1,91 @@
+Batch ID,Paddy Type,Source District,Season,Moisture (%),Input Weight (kg),Milling Duration (min),Rice Output (kg)
+B001,Iluppai Poo Samba,Thiruvarur,Samba,13.8,1187,52,773
+B002,CO 51,Tirunelveli,Navarai,14.5,826,60,534
+B003,CR 1009 Sub 1,Tirunelveli,Samba,13.9,1147,36,780
+B004,Karuppu Kavuni,Thiruvarur,Navarai,15.3,1110,59,712
+B005,CR 1009 Sub 1,Tirunelveli,Kuruvai,15.1,1058,51,711
+B006,CO 51,Tirunelveli,Kuruvai,13.8,986,53,642
+B007,Iluppai Poo Samba,Thiruvarur,Samba,14.5,856,56,553
+B008,ADT 43,Tirunelveli,Navarai,14.9,816,58,525
+B009,Karuppu Kavuni,Thiruvarur,Navarai,14.7,1053,48,679
+B010,Karuppu Kavuni,Thiruvarur,Navarai,14.8,1022,53,658
+B011,CO 51,Tirunelveli,Samba,15.1,985,43,633
+B012,ADT 43,Tirunelveli,Navarai,14.2,1010,39,655
+B013,CR 1009 Sub 1,Tirunelveli,Kuruvai,13.8,862,35,587
+B014,CO 51,Tirunelveli,Samba,14.7,1021,38,659
+B015,CR 1009 Sub 1,Tirunelveli,Kuruvai,14.4,936,39,633
+B016,ADT 43,Tirunelveli,Kuruvai,14.1,1006,38,653
+B017,Karuppu Kavuni,Thiruvarur,Samba,14.9,820,32,528
+B018,CR 1009 Sub 1,Tirunelveli,Navarai,14.0,1092,38,742
+B019,Iluppai Poo Samba,Thiruvarur,Navarai,15.5,1124,55,719
+B020,Iluppai Poo Samba,Thiruvarur,Samba,15.2,1127,36,723
+B021,Karuppu Kavuni,Thiruvarur,Samba,13.6,1115,32,727
+B022,Iluppai Poo Samba,Thiruvarur,Samba,13.1,850,50,557
+B023,CO 51,Tirunelveli,Kuruvai,13.6,901,45,587
+B024,Iluppai Poo Samba,Thiruvarur,Kuruvai,15.1,1191,54,765
+B025,Karuppu Kavuni,Thiruvarur,Kuruvai,15.2,1185,40,761
+B026,CO 51,Tirunelveli,Samba,13.9,979,46,636
+B027,ADT 43,Tirunelveli,Kuruvai,15.4,1165,60,746
+B028,CO 51,Tirunelveli,Navarai,13.7,1131,30,737
+B029,CR 1009 Sub 1,Tirunelveli,Navarai,13.0,1004,33,689
+B030,Iluppai Poo Samba,Thiruvarur,Samba,15.0,1167,45,750
+B031,Iluppai Poo Samba,Thiruvarur,Navarai,13.8,1035,53,674
+B032,Karuppu Kavuni,Thiruvarur,Kuruvai,13.5,1102,40,719
+B033,Iluppai Poo Samba,Thiruvarur,Kuruvai,15.2,936,30,601
+B034,Karuppu Kavuni,Thiruvarur,Kuruvai,13.1,1066,58,699
+B035,CR 1009 Sub 1,Tirunelveli,Samba,14.6,1064,51,719
+B036,Iluppai Poo Samba,Thiruvarur,Samba,13.0,943,40,619
+B037,CR 1009 Sub 1,Tirunelveli,Navarai,14.5,844,59,571
+B038,Karuppu Kavuni,Thiruvarur,Kuruvai,14.4,804,31,520
+B039,Karuppu Kavuni,Thiruvarur,Samba,13.3,1135,46,742
+B040,CO 51,Tirunelveli,Kuruvai,14.2,1101,55,714
+B041,ADT 43,Tirunelveli,Navarai,15.0,1029,56,662
+B042,Iluppai Poo Samba,Thiruvarur,Kuruvai,15.5,1079,53,690
+B043,ADT 43,Tirunelveli,Navarai,13.9,902,60,586
+B044,CO 51,Tirunelveli,Navarai,15.3,1009,47,647
+B045,ADT 43,Tirunelveli,Navarai,14.0,827,51,537
+B046,Iluppai Poo Samba,Thiruvarur,Navarai,14.3,1067,56,691
+B047,ADT 43,Tirunelveli,Samba,13.2,1160,33,760
+B048,CR 1009 Sub 1,Tirunelveli,Navarai,13.7,1158,31,789
+B049,Iluppai Poo Samba,Thiruvarur,Kuruvai,14.0,1112,42,722
+B050,CR 1009 Sub 1,Tirunelveli,Samba,15.2,943,40,633
+B051,CO 51,Tirunelveli,Kuruvai,14.9,971,49,625
+B052,CR 1009 Sub 1,Tirunelveli,Kuruvai,14.4,1045,35,707
+B053,Iluppai Poo Samba,Thiruvarur,Kuruvai,14.0,1185,49,770
+B054,Iluppai Poo Samba,Thiruvarur,Navarai,13.2,1144,44,749
+B055,ADT 43,Tirunelveli,Kuruvai,14.1,1072,44,696
+B056,CO 51,Tirunelveli,Kuruvai,15.0,931,35,599
+B057,Iluppai Poo Samba,Thiruvarur,Navarai,14.9,1048,48,675
+B058,CR 1009 Sub 1,Tirunelveli,Kuruvai,14.2,1047,32,710
+B059,Karuppu Kavuni,Thiruvarur,Navarai,14.0,975,31,633
+B060,CO 51,Tirunelveli,Navarai,14.5,956,59,618
+B061,CO 51,Tirunelveli,Navarai,15.0,1055,30,678
+B062,Karuppu Kavuni,Thiruvarur,Kuruvai,13.8,818,57,532
+B063,Iluppai Poo Samba,Thiruvarur,Kuruvai,14.9,1167,57,751
+B064,Iluppai Poo Samba,Thiruvarur,Navarai,14.7,988,51,637
+B065,ADT 43,Tirunelveli,Samba,13.2,1041,51,682
+B066,Karuppu Kavuni,Thiruvarur,Kuruvai,13.9,1112,56,723
+B067,Karuppu Kavuni,Thiruvarur,Navarai,13.0,1145,55,751
+B068,ADT 43,Tirunelveli,Navarai,15.1,1152,37,740
+B069,CR 1009 Sub 1,Tirunelveli,Kuruvai,14.0,945,30,642
+B070,ADT 43,Tirunelveli,Samba,15.0,837,57,538
+B071,CR 1009 Sub 1,Tirunelveli,Navarai,14.4,988,52,669
+B072,ADT 43,Tirunelveli,Samba,13.7,1127,46,734
+B073,CO 51,Tirunelveli,Samba,13.6,1022,39,666
+B074,CO 51,Tirunelveli,Navarai,13.1,978,54,641
+B075,CR 1009 Sub 1,Tirunelveli,Navarai,15.4,1058,37,709
+B076,CR 1009 Sub 1,Tirunelveli,Navarai,14.8,1102,46,743
+B077,CO 51,Tirunelveli,Kuruvai,13.4,1034,55,676
+B078,Iluppai Poo Samba,Thiruvarur,Navarai,15.4,814,46,521
+B079,Karuppu Kavuni,Thiruvarur,Samba,15.5,1170,46,749
+B080,CR 1009 Sub 1,Tirunelveli,Navarai,14.9,1036,50,698
+B081,Karuppu Kavuni,Thiruvarur,Navarai,13.4,1042,52,681
+B082,Karuppu Kavuni,Thiruvarur,Kuruvai,13.1,1032,53,676
+B083,CR 1009 Sub 1,Tirunelveli,Kuruvai,15.2,1127,40,757
+B084,Karuppu Kavuni,Thiruvarur,Samba,13.4,821,45,536
+B085,CR 1009 Sub 1,Tirunelveli,Kuruvai,14.2,1077,35,730
+B086,Iluppai Poo Samba,Thiruvarur,Kuruvai,14.5,935,58,604
+B087,CO 51,Tirunelveli,Kuruvai,13.3,1049,49,686
+B088,Iluppai Poo Samba,Thiruvarur,Samba,13.6,954,36,622
+B089,CO 51,Tirunelveli,Navarai,13.8,935,37,608
+B090,CR 1009 Sub 1,Tirunelveli,Samba,13.6,1123,34,766
