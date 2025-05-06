@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+venv/
+.venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Streamlit config/logs
+.streamlit/
+
+# Mac system files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
