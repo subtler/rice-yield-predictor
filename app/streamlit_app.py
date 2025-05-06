@@ -1,7 +1,14 @@
 import streamlit as st
 import joblib
 import numpy as np
+# Load dataset
+@st.cache_data
+def load_data():
+    df = pd.read_csv("../data/Rice_Mill_3-Month_Sample_Dataset.csv")
+    return df
 
+# Optional: if you want to use the data inside app
+df = load_data()
 # Load trained model
 model = joblib.load('../models/rice_yield_predictor_rf.pkl')
 
